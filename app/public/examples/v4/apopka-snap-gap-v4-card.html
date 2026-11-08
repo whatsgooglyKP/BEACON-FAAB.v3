@@ -1,0 +1,22 @@
+<!doctype html><html><head><meta charset="utf-8"><style>@page{size:115mm 145mm;margin:6mm}body{font-family:Arial,sans-serif;color:#1E343F;margin:0}h1{font-size:16px}/* v3: organizer-only SNAP model section; audited map/rank logic unchanged. */
+.snap-gap-card { margin: 18px 0; padding: 14px; border: 1px solid #6B8FA8; border-radius: 10px; background: #f3f6f8; font-size: 12px; line-height: 1.5; }
+.snap-gap-card h3 { margin: 0 0 7px; font-size: 15px; color: #1E343F; }
+.snap-gap-label { display: inline-block; padding: 2px 7px; background: #e4eaf0; border-radius: 4px; text-transform: capitalize; }
+.snap-gap-label.signal { background: #FDCB9C; }
+.snap-gap-card dl { margin: 10px 0; }
+.snap-gap-card dl div { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 10px; }
+.snap-gap-card dt { color: #385981; }
+.snap-gap-card dd { margin: 0; font-weight: 600; }
+.snap-gap-card h4 { margin: 10px 0 5px; font-size: 12px; }
+.snap-gap-card ul { margin: 4px 0; padding-left: 17px; }
+.snap-gap-card li { margin: 5px 0; }
+.snap-gap-card summary { cursor: pointer; color: #385981; }
+.snap-gap-caveat { border-left: 3px solid #F79122; padding-left: 8px; }
+
+/* v4: presentation only; explicit closed-state rule also supports PDF file renderers. */
+.snap-gap-card details:not([open]) > .snap-gap-technical { display: none; }
+.snap-gap-card .snap-gap-technical { font-size: 11px; }
+.snap-gap-card .snap-gap-area-caution { padding: 7px; background: #fff6eb; }
+
+.snap-gap-card .snap-gap-label { text-transform: none; }
+</style></head><body><h1>Apopka · tract 12095017703</h1><section class="snap-gap-card" aria-label="SNAP sign-ups"><h3>SNAP sign-ups</h3><strong class="snap-gap-label signal">Fewer sign-ups than expected</strong><p>About 22 in 100 households here get SNAP. Similar neighborhoods usually have about 36 in 100.</p><p><strong>Why it matters:</strong> Some eligible families may not be signed up. A SNAP sign-up event here could help.</p><p><strong>Main reason we expected more:</strong> High poverty for this area</p><p class="snap-gap-caveat">This is an estimate to check with local partners, not proof.</p><details><summary>How we got this</summary><div class="snap-gap-technical"><p>Model label: likely under-enrolled</p><p><strong>Expected 35.5% · Actual 21.5% ±7.5 pp · Gap -14.0 pp</strong></p><p>Five-fold held-out ridge estimate. Gap = actual − expected; negative means below expected. Outreach hypothesis only: shortfall exceeds SNAP MOE plus held-out model-error allowance.</p><h4>Top model associations</h4><ul><li>Poverty rate: 14.2 pp higher expected participation versus the training-fold average (association, not cause).</li><li>Median household income (log scale): 7.5 pp higher expected participation versus the training-fold average (association, not cause).</li><li>Unemployment rate: 0.7 pp lower expected participation versus the training-fold average (association, not cause).</li></ul><p>Shortfall must exceed SNAP MOE plus 5.5 pp model-error allowance; SNAP MOE &lt;10 pp and relative CV ≤0.30. This is a screening rule, not a probability or confidence interval.</p><p>Missing predictors or unstable SNAP estimates force uncertainty. Predictor MOEs are not propagated; random-fold validation may be optimistic for neighboring tracts. Eligibility and student benefit rules are not measured. Expected means a model estimate for comparable local conditions, not a directly measured average of matched neighborhoods.</p><p>Expected participation among all households, not eligibility, food need or proven under-enrollment. ACS 01/2020–12/2024; associations, not causes. Verify locally.</p></div></details></section><p style="font-size:9px">Actual React evidence component, file-rendered; not a live-browser screenshot.</p></body></html>

@@ -1,0 +1,31 @@
+field,wide_source_column,unit,vintage
+population,s0101_c01_001e,see source metadata,ACS 01/2020–12/2024
+population_moe,s0101_c01_001m,see source metadata,ACS 01/2020–12/2024
+poverty_universe,s1701_c01_001e,see source metadata,ACS 01/2020–12/2024
+poverty_universe_moe,s1701_c01_001m,see source metadata,ACS 01/2020–12/2024
+below_poverty_count,s1701_c02_001e,see source metadata,ACS 01/2020–12/2024
+below_poverty_count_moe,s1701_c02_001m,see source metadata,ACS 01/2020–12/2024
+poverty_pct,s1701_c03_001e,percent 0–100,ACS 01/2020–12/2024
+poverty_moe_pp,s1701_c03_001m,percentage points,ACS 01/2020–12/2024
+households,s2201_c01_001e,see source metadata,ACS 01/2020–12/2024
+households_moe,s2201_c01_001m,see source metadata,ACS 01/2020–12/2024
+snap_households,s2201_c03_001e,see source metadata,ACS 01/2020–12/2024
+snap_households_moe,s2201_c03_001m,see source metadata,ACS 01/2020–12/2024
+snap_pct,s2201_c04_001e,percent 0–100,ACS 01/2020–12/2024
+snap_moe_pp,s2201_c04_001m,percentage points,ACS 01/2020–12/2024
+median_household_income_usd,s1901_c01_012e,see source metadata,ACS 01/2020–12/2024
+median_household_income_moe_usd,s1901_c01_012m,see source metadata,ACS 01/2020–12/2024
+civilian_labor_force,b23025_003e,see source metadata,ACS 01/2020–12/2024
+civilian_labor_force_moe,b23025_003m,see source metadata,ACS 01/2020–12/2024
+unemployed,b23025_005e,see source metadata,ACS 01/2020–12/2024
+unemployed_moe,b23025_005m,see source metadata,ACS 01/2020–12/2024
+urban,usda_urban,see source metadata,SRAM released 07/2026; mixed sources
+population_base_2020,usda_pop2020,see source metadata,SRAM released 07/2026; mixed sources
+group_quarters_flag,usda_group_quarters_flag,see source metadata,SRAM released 07/2026; mixed sources
+lila_sd_half_10,sd_sram_lilatracts_half_and10,see source metadata,SRAM released 07/2026; mixed sources
+lila_dd_half_10,dd_sram_lilatracts_half_and10,see source metadata,SRAM released 07/2026; mixed sources
+low_access_population_sd,sd_sram_lapop05_10,see source metadata,SRAM released 07/2026; mixed sources
+low_access_population_dd,dd_sram_lapop05_10,see source metadata,SRAM released 07/2026; mixed sources
+low_income_low_access_sd,sd_sram_lalowi05_10,see source metadata,SRAM released 07/2026; mixed sources
+low_income_low_access_dd,dd_sram_lalowi05_10,see source metadata,SRAM released 07/2026; mixed sources
+no_vehicle_housing_units_proxy,usda_tract_hunv,see source metadata,SRAM released 07/2026; mixed sources

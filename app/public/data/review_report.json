@@ -1,0 +1,30 @@
+{
+  "blocking": false,
+  "encodings": {
+    "grocery.zip!SRAM Driving Distance Data.csv": "cp1252",
+    "grocery.zip!SRAM General Tract Characteristics Data.csv": "cp1252",
+    "grocery.zip!SRAM Straight Line Distance Data.csv": "cp1252",
+    "grocery.zip!SRAM Variable Lookup Driving Distance.csv": "utf-8-sig",
+    "grocery.zip!SRAM Variable Lookup General Tract Characteristics.csv": "utf-8-sig",
+    "grocery.zip!SRAM Variable Lookup Straight Line Distance.csv": "utf-8-sig",
+    "income.zip!ACSST5Y2024.S1901-Column-Metadata.csv": "utf-8-sig",
+    "income.zip!ACSST5Y2024.S1901-Data.csv": "utf-8-sig",
+    "labor.zip!ACSDT5Y2024.B23025-Column-Metadata.csv": "utf-8-sig",
+    "labor.zip!ACSDT5Y2024.B23025-Data.csv": "utf-8-sig",
+    "population.zip!ACSST5Y2024.S0101-Column-Metadata.csv": "utf-8-sig",
+    "population.zip!ACSST5Y2024.S0101-Data.csv": "utf-8-sig",
+    "poverty.zip!ACSST5Y2024.S1701-Column-Metadata.csv": "utf-8-sig",
+    "poverty.zip!ACSST5Y2024.S1701-Data.csv": "utf-8-sig",
+    "retailers.csv": "utf-8-sig",
+    "snap.zip!ACSST5Y2024.S2201-Column-Metadata.csv": "utf-8-sig",
+    "snap.zip!ACSST5Y2024.S2201-Data.csv": "utf-8-sig"
+  },
+  "items": [
+    {
+      "blocking": false,
+      "category": "human_verification",
+      "detail": "Deterministic PDF extraction completed; numeric rows still require visual review before operational use",
+      "source": "small_business_fl.pdf"
+    }
+  ]
+}

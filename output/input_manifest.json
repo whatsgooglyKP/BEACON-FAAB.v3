@@ -1,0 +1,67 @@
+[
+  {
+    "path": "raw/grocery.zip",
+    "bytes": 18935773,
+    "sha256": "8e8ccda55aa478dd5907050249c28157d445568d242db8b5f85231b82c8afdbf"
+  },
+  {
+    "path": "raw/income.zip",
+    "bytes": 669777,
+    "sha256": "6b417bf01459451656ac8563a9e3a812742a207b08e023839772afedb8e1d0a0"
+  },
+  {
+    "path": "raw/labor.zip",
+    "bytes": 103044,
+    "sha256": "09651b08dce6ca274d8d4640f45fac298308495ddf10af4a146caeefad258fa6"
+  },
+  {
+    "path": "raw/mortgage.xlsx",
+    "bytes": 169166,
+    "sha256": "2b73ac472a8a410727c81526cfb30fb15c0b248048bd4e3515dba0e99990edf3"
+  },
+  {
+    "path": "raw/population.zip",
+    "bytes": 2076692,
+    "sha256": "7eeaa80d5d150d6f913ab294df2d5bc98158b2e1287f8b1aecbe0db330dce1eb"
+  },
+  {
+    "path": "raw/poverty.zip",
+    "bytes": 1771642,
+    "sha256": "2d09ec31c73c221857f7446b2d52cf9b6c97d07c2ef5ecac501764fb1751d4a9"
+  },
+  {
+    "path": "raw/retailers.csv",
+    "bytes": 38945784,
+    "sha256": "6a4f1afd448b42ce4e7111744faad03a147b963f8b02b6ea7012c65872690957"
+  },
+  {
+    "path": "raw/small_business_fl.pdf",
+    "bytes": 68378,
+    "sha256": "7b699e3c80910bc0429e2a3206b818108d9f1b1d4271a7e6ff801ebcabf8f080"
+  },
+  {
+    "path": "raw/small_business_fl.txt",
+    "bytes": 105860,
+    "sha256": "e989df747bb89411479c35fd35e376ae9497b6f30b87aeff825de876fbf2d189"
+  },
+  {
+    "path": "raw/snap.zip",
+    "bytes": 2104927,
+    "sha256": "f8d09f97fff9b516b2c47e3c8ea7496d4c1cb178fdd8ec1497d6f8d070bb749b"
+  },
+  {
+    "path": "geography/orlando_neighborhoods.geojson",
+    "bytes": 582525,
+    "sha256": "10ce2647d7a7d97573406c747738bea067ad5923c3d5da1ad9ca743181a23480"
+  },
+  {
+    "path": "geography/places.zip",
+    "bytes": 6969907,
+    "sha256": "30d57de7fd40faaf3208bef7bc00f706f70a038aacd2feb1ff1681f68216869e"
+  },
+  {
+    "path": "geography/tracts.zip",
+    "bytes": 13738088,
+    "sha256": "dd178ccb9c5324492c22ef82c78bfbfe95ebf5248463eeb85d54b00983d85b3c"
+  }
+]

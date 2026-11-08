@@ -1,0 +1,839 @@
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    1   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+LAKE COUNTY (069), FL
+ Low Income
+ 0302.06                                    115     1,149          2          393               0               0                  55             676
+ 0302.09                                    162     2,331          3          498               1         300                      81             855
+ 0305.05                                     91     1,709          3          360               5        1,926                     27             438
+ 0306.02                                    165     2,694          7         1,165              4        3,379                     93         1,986
+ 0313.17                                    155     1,669          2          376               1         553                      84         1,471
+ Subtotal for Income Group                  688     9,552         17         2,792            11         6,158                   340          5,426
+ Moderate Income
+ 0301.02                                     51       494          1          139               0               0                  32             269
+ 0301.06                                     27       370          0               0            0               0                  18             215
+ 0302.10                                     31       455          0               0            1         608                      11              67
+ 0303.05                                     42       543          0               0            1         996                      28             354
+ 0303.06                                     74       547          0               0            1         754                      53         1,053
+ 0303.07                                     63       483          2          362               0               0                  44             345
+ 0303.08                                     62       468          1          130               1         750                      43             337
+ 0304.06                                     86       848          4          577               0               0                  42             339
+ 0304.07                                     67       846          1          204               0               0                  41             645
+ 0304.09                                     43       416          0               0            1         400                      24             168
+ 0304.11                                     87       939          1          140               1        1,000                     49             481
+ 0305.07                                    216     3,639         12         2,174              7        4,319                   112          3,820
+ 0307.01                                     67       967          4          489               5        2,383                     33         1,465
+ 0307.02                                    109     1,552          1          164               2        1,050                     76         1,145
+ 0308.04                                     51       811          2          395               2        1,028                     20             231
+ 0308.05                                     75       670          0               0            0               0                  44             349
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    2   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0308.06                                     67       711          0               0            2        1,385                     37             359
+ 0309.14                                    211     2,533          4          485               3        1,558                   112          2,485
+ 0311.04                                      9        72          0               0            1         400                       5              44
+ 0311.07                                    110     1,212          2          320               1         275                      72         1,000
+ 0312.05                                     51       612          1          105               0               0                  22             222
+ 0312.06                                    213     2,523          2          284               4        2,650                   130          1,402
+ 0313.12                                    226     2,758          6          918               5        2,667                   111          2,305
+ 0313.19                                    120     1,376          0               0            1         300                      75             828
+ Subtotal for Income Group              2,158      25,845         44         6,886            39       22,523                  1,234         19,928
+ Middle Income
+ 0301.04                                     29       396          2          308               0               0                  21             172
+ 0301.10                                    153     2,359          8         1,196              3        2,029                     95         1,007
+ 0301.11                                     35       424          0               0            1         294                      18             208
+ 0301.12                                     82       912          0               0            0               0                  39             320
+ 0302.03                                    278     3,956          3          414               3        1,800                   146          2,422
+ 0302.04                                    108     1,476          4          629               3        1,561                     48             557
+ 0303.02                                    103     1,129          1          170               2         790                      62             567
+ 0304.05                                    117     1,703          4          649               1         392                      62             880
+ 0304.08                                    105     1,827          2          452               6        4,087                     58         3,913
+ 0304.10                                     84     1,119          3          468               0               0                  47             711
+ 0305.06                                     97     1,088          2          334               1         343                      53             578
+ 0306.01                                    129     1,687          1          133               2        1,279                     77             805
+ 0308.03                                    169     2,757          8         1,178              0               0                  92         1,549
+ 0308.07                                    145     2,213          4          760               3        2,164                     57         1,966
+ 0309.15                                    233     2,857          5          887               7        3,741                   116          2,586
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    3   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0309.17                                    315     3,729          4          557               4        2,559                   190          2,131
+ 0309.18                                     67     1,194          2          279               2         610                      28             269
+ 0310.01                                     42       499          1          145               1         750                      22             203
+ 0310.02                                    234     4,007          6          816               3        1,750                   100          1,896
+ 0311.03                                    108     1,636          1          186               0               0                  56             631
+ 0311.05                                    122     1,528          6          941               2        1,256                     72             723
+ 0311.06                                     20       289          0               0            0               0                  17             266
+ 0311.08                                     38       396          1          200               1         304                      30             573
+ 0312.02                                    263     3,920          4          560               2        1,047                   153          1,891
+ 0312.03                                    106     1,354          4          524               3        1,251                     61         1,314
+ 0312.07                                    553     6,835         15         2,362              5        2,667                   338          4,862
+ 0313.01                                    466     6,204          3          490               1         713                    267          4,120
+ 0313.09                                    547     5,925          5          843               3        1,206                   317          3,001
+ 0313.13                                    166     2,138          1          250               2         867                      87         1,622
+ 0313.15                                    237     2,884          2          387               8        3,376                   115          3,064
+ 0313.18                                    164     2,180          2          232               1         600                    101          1,279
+ 0313.23                                    152     1,886          2          316               1         350                      73         1,046
+ 0313.24                                    118     1,336          1          201               0               0                  78             882
+ Subtotal for Income Group              5,585      73,843        107       16,867             71       37,786                  3,096         48,014
+ Upper Income
+ 0301.08                                    157     1,968          2          306               0               0                  83             829
+ 0301.09                                     99     1,258          0               0            1         326                      59             682
+ 0302.08                                    120     1,367          1          133               0               0                  62             496
+ 0302.11                                    102     1,115          1          107               0               0                  71             760
+ 0309.16                                    228     2,949          2          467               3        1,953                   124          1,461
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    4   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0312.08                                     44       653          0               0            1         600                      23             262
+ 0313.06                                    486     6,188         11         1,501              5        1,962                   269          3,241
+ 0313.08                                    290     3,440          5          842               1         435                    158          1,928
+ 0313.14                                    462     4,876          3          509               0               0                287          2,841
+ 0313.16                                    270     3,370          1          146               2        1,622                   156          3,776
+ 0313.20                                    231     3,121         11         1,953              2        1,000                   117          1,985
+ 0313.21                                    144     1,911          2          349               0               0                  78         1,264
+ 0313.22                                     87     1,188          0               0            0               0                  46             526
+ Subtotal for Income Group              2,720      33,404         39         6,313            15         7,898                 1,533         20,051
+ Tract Not Known
+ Subtotal for Income Group                   31       199          0               0            0               0                  15              68
+
+
+ County Total                          11,182     142,843        207       32,858            136       74,365                  6,218         93,487
+ORANGE COUNTY (095), FL
+ Median Family Income 30-40%
+ 0104.00                                     11       269          1          118               0               0                  10             379
+ Subtotal for Income Group                   11       269          1          118               0               0                  10             379
+ Median Family Income 40-50%
+ 0116.00                                    209     2,410          3          584               4        1,758                   103          1,630
+ 0117.02                                     44       575          2          279               1         550                      21             427
+ 0120.00                                     92       937          1          230               1         900                      50             576
+ 0135.12                                    121     1,476          2          347               1         300                      77             846
+ 0145.02                                    143     1,910          3          489               0               0                  77             922
+ 0145.03                                     36       535          0               0            4        1,936                     19             440
+ 0165.10                                     44       728          2          400               2         673                      22             452
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    5   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0167.39                                     98       849          0               0            0               0                  60             462
+ 0167.44                                    105     1,334          1          148               0               0                  65             887
+ 0169.06                                     47       592          0               0            0               0                  27             310
+ 0169.07                                     43       574          3          391               3        1,124                     29             625
+ 0170.24                                     63       587          0               0            0               0                  48             510
+ Subtotal for Income Group              1,045      12,507         17         2,868            16         7,241                   598          8,087
+ Median Family Income 50-60%
+ 0110.00                                    216     3,287          3          495               2        1,300                   120          1,640
+ 0121.00                                    102     1,159          1          102               0               0                  47             546
+ 0122.01                                     96     1,007          3          381               0               0                  60             817
+ 0122.02                                     66       607          0               0            0               0                  48             400
+ 0124.02                                    145     2,284          8         1,463              3        1,048                     69         1,922
+ 0124.04                                     51       321          0               0            0               0                  26             203
+ 0124.05                                     54       367          1          211               0               0                  29             419
+ 0134.05                                     25       177          1          212               0               0                  18             329
+ 0135.03                                     29       243          0               0            0               0                  18             106
+ 0135.11                                    147     1,503          0               0            0               0                  92             962
+ 0135.13                                    102     1,160          2          239               5        1,923                     64         1,196
+ 0142.02                                    288     3,875         14         2,438              7        3,472                   167          5,077
+ 0146.01                                    176     2,251          4          725               1         320                      96         1,651
+ 0146.06                                    366     5,356         15         2,254              8        3,251                   172          3,174
+ 0146.09                                     93     1,011          5          881               5        2,135                     51         1,740
+ 0147.01                                    161     2,036          2          352               4        2,980                     77         1,491
+ 0149.04                                     99     1,180          0               0            0               0                  60             627
+ 0150.01                                     59       893          2          450               2         732                      29             492
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    6   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0151.04                                    146     1,955          7         1,174              3        1,266                     79         1,505
+ 0168.09                                    237     2,875          2          336               0               0                138          1,663
+ 0169.04                                     73       695          0               0            0               0                  51             441
+ 0169.09                                     60       589          0               0            1         840                      35         1,078
+ 0174.02                                    355     5,715         23         3,756            15         8,622                   160          3,897
+ 0175.03                                    173     2,298          2          310               0               0                  96         1,074
+ 0176.00                                    124     1,590          1          214               7        3,739                     71         1,110
+ 0180.00                                    144     1,598          6          779               4        2,173                     83         1,571
+ 0189.01                                    838    11,367         15         2,515            10         5,307                   386          5,828
+ Subtotal for Income Group              4,425      57,399        117       19,287             77       39,108                  2,342         40,959
+ Median Family Income 60-70%
+ 0123.04                                    112       818          0               0            0               0                  77             514
+ 0123.06                                     63       581          2          300               0               0                  34             159
+ 0124.03                                    311     4,587         11         1,662              7        4,026                   130          2,066
+ 0132.01                                    107     1,244          6         1,053              2         625                      56         1,216
+ 0132.02                                    223     3,608          5          631               6        2,943                     98         1,761
+ 0135.07                                    533     9,492         20         3,440            10         6,122                   233          3,736
+ 0135.10                                     36       216          1          185               0               0                  26             328
+ 0136.03                                    109       908          4          778               3        1,438                     81         1,869
+ 0136.04                                    142     1,157          3          459               1         553                    103          1,640
+ 0136.06                                    320     5,022          5          726               5        2,667                   217          4,442
+ 0143.02                                    138     1,729         10         1,628              3        1,255                     54             510
+ 0146.05                                     95       868          3          358               2        1,036                     55             706
+ 0146.08                                     42       339          0               0            0               0                  26             229
+ 0147.03                                    137     2,265          4          641               5        3,493                     67         1,142
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    7   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0149.08                                    101       796          1          118               0               0                  63             608
+ 0164.02                                    144     1,870          5          742               2         757                      48             888
+ 0164.06                                    218     3,582         11         1,667              9        4,255                     77         1,904
+ 0166.05                                     32       461          0               0            0               0                  20             148
+ 0167.13                                    206     2,068          3          351               0               0                137          1,332
+ 0167.38                                    111     1,180          5          903               0               0                  51             578
+ 0167.42                                     55       664          0               0            0               0                  34             358
+ 0167.54                                    110     1,058          2          355               0               0                  73             840
+ 0168.14                                    179     1,657          1          168               1         323                    121          1,321
+ 0169.02                                    507     8,354         44         7,534            30       15,592                    208          4,919
+ 0169.10                                     27       117          0               0            0               0                  19              55
+ 0170.01                                1,284      19,374         50         8,070            23       10,815                    546         10,769
+ 0170.11                                    628     8,079         22         3,677            10         5,420                   330          4,676
+ 0170.13                                    259     2,721          2          248               0               0                174          1,903
+ 0170.18                                    316     3,517          7         1,154              2        1,292                   191          1,656
+ 0170.19                                    220     2,219          1          200               0               0                147          1,380
+ 0170.22                                    335     3,385          7         1,112              2         770                    204          2,152
+ 0170.23                                    100     1,367          4          584               2         804                      63         1,139
+ 0183.00                                    411     5,810         13         2,193              9        3,580                   158          2,702
+ 0187.00                                    257     4,447         23         3,609            16         8,327                   128          5,947
+ Subtotal for Income Group              7,868     105,560        275       44,546            150       76,093                  4,049         65,593
+ Median Family Income 70-80%
+ 0117.01                                     86       855          1          104               1         511                      51             488
+ 0123.05                                     93       638          1          181               0               0                  51             468
+ 0134.02                                     70       553          1          145               0               0                  49             488
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    8   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0134.06                                     46       313          1          250               0               0                  36             184
+ 0135.05                                     94     1,057          2          338               1         293                      62             964
+ 0146.07                                    268     2,691          7         1,231              1         395                    180          2,678
+ 0147.02                                    187     1,756          2          373               2         829                    120          1,935
+ 0148.04                                    244     3,351          3          499               1         303                    126          1,579
+ 0148.05                                    148     1,460          1          114               0               0                101              931
+ 0148.12                                    570     7,874         14         2,167            16         7,276                   305          7,766
+ 0151.05                                    156     2,078          9         1,257              3        2,406                     80         2,105
+ 0151.06                                    151     1,446          3          519               1         293                      95             924
+ 0152.02                                    244     3,347          6          911               3        1,573                   104          2,080
+ 0164.13                                     84       820          0               0            0               0                  51             462
+ 0164.14                                     85       687          0               0            0               0                  61             374
+ 0167.09                                    151     1,393          0               0            0               0                114          1,104
+ 0167.33                                    261     3,673          2          315               2         650                    147          2,369
+ 0173.02                                    332     5,356         11         1,638              5        2,445                   160          2,395
+ 0175.05                                    133     1,752          2          306               1         808                      70             986
+ 0177.03                                    172     2,046          0               0            1         350                    102          1,124
+ Subtotal for Income Group              3,575      43,146         66       10,348             38       18,132                  2,065         31,404
+ Median Family Income 80-90%
+ 0123.07                                     99       903          0               0            1         305                      69             723
+ 0134.03                                     60       626          0               0            0               0                  31             255
+ 0136.05                                    122     1,567          1          115               3        2,306                     60         2,068
+ 0137.01                                    132     1,852          2          300               1         683                      70             887
+ 0137.02                                    148     2,064          2          234               3        1,468                     76             861
+ 0145.04                                    284     3,082          5          820               3        1,640                   187          2,977
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:    9   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0147.05                                    380     3,891          6          967               2        1,037                   238          3,271
+ 0147.06                                    434     5,191          4          560               8        3,888                   222          3,348
+ 0152.04                                    274     3,583          7         1,287              2         851                    153          2,340
+ 0163.02                                    159     2,537          5          875               6        2,363                     85         1,502
+ 0164.12                                    176     1,924          2          301               0               0                107          1,339
+ 0165.09                                     84       837          1          200               2        1,499                     55         1,546
+ 0165.13                                    157     1,776          3          509               4        3,450                   117              896
+ 0166.07                                    227     2,561          1          142               3        2,124                   112          2,355
+ 0167.15                                    209     2,377          6         1,009              3        2,500                   134          4,357
+ 0167.23                                    190     2,075          4          598               2        1,283                   138          1,389
+ 0167.24                                     95       960          1          150               0               0                  60             472
+ 0167.45                                    135     1,227          0               0            1         350                      83             698
+ 0167.53                                    280     2,930          3          494               1         300                    154          1,669
+ 0168.03                                    510     7,235         21         3,579            12         6,061                   222          5,408
+ 0168.11                                    708     8,340          7         1,053              1         430                    440          5,695
+ 0168.12                                    232     2,052          3          425               0               0                153          1,584
+ 0169.08                                    102       977          0               0            0               0                  58             477
+ 0170.04                                    198     2,405          4          715               0               0                114          1,303
+ 0175.04                                    227     2,822          5          735               5        1,958                   111              950
+ 0178.07                                     95     1,054          3          504               2        1,000                     63             889
+ 0182.03                                     52       460          2          336               0               0                  28             534
+ 0184.00                                    466     7,105         14         2,522            14         6,534                   238          3,916
+ 0185.00                                    262     5,546         86       13,115               8        4,682                   103          3,407
+ Subtotal for Income Group              6,497      79,959        198       31,545             87       46,712                  3,681         57,116
+ Median Family Income 90-100%
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   10   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0133.00                                    197     1,859          3          386               0               0                122          1,062
+ 0142.01                                    243     2,339          2          363               1         500                    139          1,621
+ 0143.01                                    230     2,904          6          780               0               0                142          1,809
+ 0149.06                                    281     4,012          7         1,029              4        1,702                   184          3,188
+ 0149.09                                     60       546          0               0            0               0                  37             325
+ 0150.05                                    136     1,594          0               0            1        1,000                     73             771
+ 0159.01                                    442     7,599         18         2,753            15         7,743                   193          5,305
+ 0165.05                                     82       933          1          230               0               0                  41             385
+ 0167.10                                    106     1,281          0               0            1         256                      70         1,215
+ 0168.13                                    143     1,335          1          118               0               0                  88             849
+ 0170.20                                    271     2,441          4          605               0               0                207          2,091
+ 0173.01                                    101     1,296          0               0            0               0                  54             615
+ 0181.00                                    157     2,591          8         1,297              6        3,377                     73         1,619
+ 0182.04                                    120     2,124          2          360               4        1,894                     64         2,105
+ Subtotal for Income Group              2,569      32,854         52         7,921            32       16,472                  1,487         22,960
+ Median Family Income 100-110%
+ 0123.03                                    155     1,532          0               0            0               0                106              966
+ 0136.07                                    141     1,742          2          328               0               0                  90         1,091
+ 0138.03                                     57       702          0               0            1         845                      32         1,182
+ 0150.02                                    147     1,327          0               0            0               0                  97             867
+ 0150.03                                    139     1,726          0               0            0               0                  79             696
+ 0163.01                                    226     3,057          2          305               3        2,013                   130          2,930
+ 0165.03                                    192     2,817          3          460               1         368                    103          1,650
+ 0165.04                                    103     1,237          0               0            1         705                      63         1,492
+ 0166.04                                    215     2,977          4          681               0               0                119          1,609
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   11   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0167.14                                     76       612          1          123               0               0                  48             400
+ 0167.17                                    126     1,312          0               0            1         314                      75             663
+ 0167.28                                    214     2,447          0               0            1         368                    115          1,578
+ 0167.31                                    100     1,160          0               0            1         359                      56             715
+ 0167.40                                    150     2,044          1          139               1        1,000                     69             867
+ 0168.08                                     83       780          0               0            0               0                  57             552
+ 0170.06                                    162     1,476          0               0            2         564                    102          1,383
+ 0178.09                                     68       551          0               0            0               0                  40             379
+ 0179.02                                    336     4,958          5          796               4        1,733                   169          2,871
+ Subtotal for Income Group              2,690      32,457         18         2,832            16         8,269                 1,550         21,891
+ Median Family Income 110-120%
+ 0148.07                                    306     3,720          2          253               5        3,263                   191          2,419
+ 0151.03                                    233     3,080          8         1,242              8        4,909                   127          3,453
+ 0152.03                                    231     3,865          7         1,086            15         9,665                   104          1,794
+ 0164.11                                     54       655          3          480               1         757                      34             336
+ 0167.41                                     91     1,115          4          688               3        1,605                     58         1,532
+ 0168.04                                    511     7,605         12         2,116              8        4,437                   236          4,041
+ 0170.15                                    651     7,780          8         1,274              4        1,966                   389          5,756
+ 0170.21                                    249     2,792          1          232               1         498                    175          2,699
+ 0171.10                                    366     5,263          8         1,390              2        1,250                   211          3,304
+ 0177.02                                    100     1,041          1          131               1        1,000                     58             422
+ 0178.05                                     86     1,113          2          348               1         547                      58             753
+ 0178.10                                    253     3,859          8         1,173              8        3,700                   131          2,530
+ 0178.12                                    186     1,799          4          771               0               0                113          1,121
+ 0190.00                                    450     6,734         18         3,048              8        3,812                   216          3,530
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   12   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ Subtotal for Income Group              3,767      50,421         86       14,232             65       37,409                  2,101         33,690
+ Median Family Income >= 120%
+ 0102.01                                    333     4,588          5          777               2         825                    188          2,435
+ 0102.02                                    404     5,337         12         2,525            15         8,279                   189          3,960
+ 0103.00                                    139     2,163          4          653               7        5,451                     60             654
+ 0108.02                                    171     2,115          1          110               0               0                  95         1,064
+ 0111.00                                     92       893          0               0            0               0                  53             434
+ 0112.00                                    134     2,263          0               0            2         657                      71         1,150
+ 0113.00                                    280     4,286          7         1,013              2        1,791                   154          3,132
+ 0125.00                                    115     2,006          3          423               2        1,324                     55         1,499
+ 0126.00                                    324     4,206          8         1,184              8        4,372                   182          3,629
+ 0127.01                                    227     2,793          3          572               5        2,629                   138          1,493
+ 0128.00                                    166     2,199          6          725               3        1,225                     85         1,329
+ 0129.00                                    214     2,850          8         1,479              7        3,351                   114          1,679
+ 0138.01                                     58       619          1          106               0               0                  31             285
+ 0138.02                                     84     1,108          0               0            2        1,101                     50         1,345
+ 0139.00                                    318     4,891          8         1,587              8        3,297                   162          3,445
+ 0140.00                                    333     5,686          7         1,064              5        2,312                   169          3,295
+ 0141.00                                    318     4,546          9         1,214            10         7,225                   159          4,386
+ 0144.00                                    145     1,840          1          117               2         619                      83             945
+ 0148.06                                    245     2,695          2          207               0               0                153          1,460
+ 0148.09                                    306     4,662         10         1,583            10         7,431                   161          5,299
+ 0148.10                                    356     4,774          5          706               4        1,451                   212          2,592
+ 0148.11                                    252     2,834          4          563               3        2,300                   160          2,708
+ 0148.13                                    590     9,007          8         1,258            12         5,662                   289          6,944
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   13   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0148.14                                    347     5,018          4          688               1         950                    187          2,471
+ 0148.15                                    336     5,515          7         1,056              0               0                198          3,255
+ 0150.06                                    144     1,426          0               0            0               0                  80             880
+ 0153.00                                    207     2,988          3          525               5        2,121                     94         2,401
+ 0155.01                                    440     6,398         18         3,006              5        2,496                   225          4,675
+ 0156.01                                    133     1,695          6          981               3        1,933                     67         1,997
+ 0156.02                                     76     1,046          1          250               0               0                  46             891
+ 0157.01                                    127     2,042          3          588               0               0                  70         1,351
+ 0157.02                                     74     1,333          4          750               3        2,747                     42         1,846
+ 0158.01                                    148     2,441          5          894               0               0                  86         1,795
+ 0158.02                                     93     1,157          4          746               0               0                  56             880
+ 0160.01                                    247     4,402          7         1,080            10         6,026                   121          2,849
+ 0160.02                                    119     2,110          1          212               4        2,675                     63         1,003
+ 0161.00                                    184     3,498          5          856               5        4,259                   105          2,450
+ 0162.00                                    157     2,193          3          381               0               0                  94         1,292
+ 0164.08                                     72       895          1          178               1         350                      39             508
+ 0164.09                                     77     1,091          1          104               1         760                      59             892
+ 0165.11                                    131     1,366          0               0            0               0                  75             712
+ 0165.12                                     29       598          0               0            4        1,984                     12             192
+ 0165.14                                    131     1,636          2          385               1         621                      85         1,914
+ 0166.03                                    197     1,995          0               0            1         366                    120          1,505
+ 0166.06                                    150     2,569          2          274               1         261                      93         1,204
+ 0167.16                                    251     3,815          3          451               1         420                    150          2,219
+ 0167.35                                    600     7,050         11         1,866              1         307                    355          3,866
+ 0167.36                                    927    11,075         13         1,863              3        2,154                   586          8,510
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   14   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0167.37                                    848     9,902          8         1,198              2         672                    552          6,260
+ 0167.43                                    174     1,890          1          105               0               0                107          1,265
+ 0167.46                                    106     1,295          1          107               0               0                  60             628
+ 0167.47                                    218     2,672          1          107               0               0                130          1,344
+ 0167.48                                    191     1,893          0               0            0               0                120          1,195
+ 0167.49                                    202     2,144          2          370               1         500                    123          1,220
+ 0167.50                                    483     5,503          4          662               5        2,483                   287          3,890
+ 0167.51                                    269     3,051          2          252               3        1,071                   180          2,267
+ 0167.52                                    180     2,490          0               0            2         767                    109          1,854
+ 0167.55                                    179     1,367          2          384               0               0                119          1,161
+ 0167.56                                    200     2,036          0               0            2         784                    108          1,080
+ 0168.02                                1,585      21,992         30         4,703            18         9,925                   888         12,886
+ 0168.10                                    540     5,622          1          122               0               0                329          3,489
+ 0170.12                                    151     1,849          1          250               0               0                  85             954
+ 0170.25                                    192     2,264          2          255               1         600                    105          1,859
+ 0170.26                                    186     1,869          0               0            1         650                    112          1,046
+ 0171.08                                    605     8,665          9         1,318              4        1,549                   317          4,959
+ 0171.09                                    418     6,246          7         1,026              4        2,215                   254          4,236
+ 0171.11                                1,515      17,295         21         3,186              7        3,521                   922         11,790
+ 0171.12                                    988    11,516         12         1,617              1         500                    610          6,957
+ 0171.13                                    973    12,095         14         2,200              8        3,808                   566          6,780
+ 0171.14                                    666     8,016         19         3,297              2        1,309                   427          6,795
+ 0171.15                                    249     4,020         10         1,412              3        1,030                   138          2,966
+ 0171.16                                    471     5,600          7          946               7        3,555                   264          3,541
+ 0171.17                                    353     4,919          5          658               0               0                212          2,578
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   15   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0171.18                                    310     4,840          5         1,034              1         257                    160           2,697
+ 0171.19                                    156     1,882          6          891               1         360                      94          1,235
+ 0171.20                                    317     4,442          8         1,257              6        2,554                   186           3,299
+ 0171.22                                    222     2,681          1          126               2        1,658                   134           2,424
+ 0171.23                                    460     6,913         10         1,530              4        2,036                   253           4,376
+ 0172.00                                    291     4,208          9         1,511              2         877                    150           2,762
+ 0174.01                                    268     3,570         10         1,489              9        4,123                   153           2,680
+ 0175.06                                    463     4,952          0               0            2        1,300                   290           2,940
+ 0177.01                                    101     1,002          0               0            1         266                      57             590
+ 0178.06                                    136     1,531          0               0            0               0                  84          1,131
+ 0178.08                                    107     1,205          1          200               0               0                  70             636
+ 0178.11                                    130     1,572          2          300               1         480                      84          1,678
+ 0178.13                                    110     2,165          1          120               0               0                  62             977
+ 0178.14                                    163     1,978          1          150               0               0                  80          1,263
+ 0179.01                                    242     3,925         13         2,409            16         6,424                   123           2,447
+ 0182.01                                    306     4,327          4          740               4        2,178                   153           2,933
+ 0182.02                                    130     1,768          2          333               2         948                      73          1,263
+ 0188.00                                    659     9,634         19         3,060            12         8,758                   309           5,069
+ 0189.02                                1,235      19,192         46         7,037            37       19,910                    575          13,723
+ Subtotal for Income Group             28,749     381,711        513       81,362            330      178,800                 16,335         253,843
+ Median Family Income Not Known
+ 0105.00                                     26       371          0               0            0               0                  10             103
+ 0164.07                                    292     3,689          8         1,284              9        5,819                   149           1,714
+ 0165.15                                     31       659          1          146               0               0                  12             246
+ 0169.11                                    330     3,794          3          616               3        1,687                   185           2,737
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   16   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0171.21                                    412     6,178          4          821               7        4,753                   198           3,864
+ Subtotal for Income Group              1,091      14,691         16         2,867            19       12,259                    554           8,664
+ Tract Not Known
+ Subtotal for Income Group                  110       739          1          200               0               0                  61             359
+
+
+ County Total                          62,397     811,713      1,360      218,126            830      440,495                 34,833         544,945
+OSCEOLA COUNTY (097), FL
+ Low Income
+ 0419.00                                     86       598          0               0            0               0                  61             431
+ Subtotal for Income Group                   86       598          0               0            0               0                  61             431
+ Moderate Income
+ 0408.10                                    210     2,090          4          429               2         782                    130           1,861
+ 0410.05                                    127     1,428          0               0            0               0                  79             823
+ 0411.01                                    183     1,307          0               0            0               0                126              996
+ 0413.01                                    149     1,113          2          447               0               0                  89             805
+ 0413.02                                    118     1,046          0               0            0               0                  74             660
+ 0416.00                                    648     8,651         15         2,581            11         7,024                   363           8,313
+ 0417.00                                    255     3,634          8         1,311              8        3,666                   137           1,926
+ 0418.00                                    160     2,160          0               0            1         340                      94          1,071
+ 0420.00                                    569     5,953          5          884               5        2,412                   367           4,373
+ 0421.00                                    544     6,153          4          526               4        1,489                   354           4,547
+ 0422.01                                    261     2,620          2          321               1         351                    131           1,422
+ 0422.02                                    136     1,601          3          540               1         733                      74             926
+ 0423.00                                    726     9,349         24         3,447            13         5,167                   416           5,283
+ 0424.00                                    139     1,060          0               0            1         725                      95             801
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   17   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0426.01                                     89       787          2          294               0               0                  57             533
+ 0426.04                                    145     1,170          2          279               0               0                102              818
+ 0427.01                                    149     1,604          1          125               0               0                  93             923
+ 0427.02                                    145     1,138          0               0            0               0                104              809
+ 0429.01                                    200     1,758          5          794               4        1,629                   124          2,061
+ 0429.03                                    122     1,608          2          300               0               0                  74             862
+ 0429.05                                     37       282          0               0            1         780                      26             127
+ 0432.03                                    185     1,962          1          200               3        1,162                     94         1,167
+ 0434.00                                    120     1,221          1          201               1         700                      69             662
+ 0435.00                                    164     1,954          5          806               2         892                    103          1,695
+ Subtotal for Income Group              5,581      61,649         86       13,485             58       27,852                  3,375         43,464
+ Middle Income
+ 0408.01                                    148     1,979          3          457               3         892                      75         1,426
+ 0408.05                                    120     1,680          4          775               1         276                      76         1,147
+ 0408.06                                    143     1,878          3          448               0               0                  72             806
+ 0408.09                                    284     2,875          5          642               5        2,901                   160          4,485
+ 0408.11                                    235     2,462          3          454               3        1,304                   143          2,866
+ 0409.01                                    283     2,994          2          327               1         359                    181          2,310
+ 0409.03                                    127     1,349          3          417               0               0                  77             548
+ 0409.04                                    478     5,086          5          580               2         689                    298          3,360
+ 0410.03                                    186     1,958          4          711               1         423                    117          1,698
+ 0410.04                                    189     1,641          1          112               0               0                106          1,143
+ 0410.06                                    387     3,848          3          494               1         950                    260          3,512
+ 0411.02                                    122       930          1          120               0               0                  72             536
+ 0415.01                                    313     4,060          5          693               0               0                187          2,679
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   18   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0415.02                                    360     3,843          3          363               1         500                    232          2,552
+ 0425.00                                    219     2,455          4          590               2        1,200                   132          1,435
+ 0426.03                                    407     3,611          1          105               0               0                171          1,643
+ 0428.00                                    731     8,178          8         1,429              0               0                491          5,183
+ 0429.02                                    110     1,237          3          566               2        1,300                     80         1,837
+ 0429.04                                    222     2,879          1          150               0               0                138          1,951
+ 0432.05                                    104     1,381          3          516               1         500                      64             626
+ 0432.07                                    218     2,348          2          275               1         400                    131          1,408
+ 0432.08                                    291     2,964          4          610               2         650                    172          2,270
+ 0433.01                                    391     4,787          3          470               4        1,449                   224          2,660
+ 0433.03                                    318     3,259          5          648               4        1,438                   181          1,961
+ 0433.04                                    305     2,840          2          387               2         725                    204          1,792
+ 0437.00                                    992    10,871         10         1,579              4        1,564                   647          7,454
+ 0438.01                                    282     3,319          3          544               3        1,438                   157          1,687
+ 0438.02                                    126     1,452          3          457               2        1,097                     75             865
+ Subtotal for Income Group              8,091      88,164         97       14,919             45       20,055                  4,923         61,840
+ Upper Income
+ 0408.07                                    328     4,526          7         1,280              1         260                    158          2,123
+ 0408.08                                    447     6,362         10         1,409              8        4,679                   245          5,177
+ 0408.12                                    555     6,683         14         2,394              1         880                    314          4,685
+ 0431.00                                    548     4,881          0               0            0               0                353          3,049
+ 0432.09                                     99     1,450          3          340               0               0                  55             554
+ 0436.00                                    377     3,985          7         1,081              4        1,819                   226          3,447
+ Subtotal for Income Group              2,354      27,887         41         6,504            14         7,638                 1,351         19,035
+ Tract Not Known
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   19   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ Subtotal for Income Group                   29       213          0               0            0               0                  13             126
+
+
+ County Total                          16,141     178,511        224       34,908            117       55,545                  9,723         124,896
+SEMINOLE COUNTY (117), FL
+ Low Income
+ 0205.00                                     66     1,453          1          190               1         449                      36          1,426
+ Subtotal for Income Group                   66     1,453          1          190               1         449                      36          1,426
+ Moderate Income
+ 0201.01                                    154     2,194          5          739               2        1,506                     69          1,098
+ 0202.01                                     74     1,241          2          313               3        2,098                     39             401
+ 0203.02                                     35       510          0               0            1         298                      22             305
+ 0204.01                                     26       371          1          146               0               0                  19             204
+ 0208.07                                    142     1,537          1          150               1        1,000                     84             694
+ 0209.01                                     36       359          2          450               1         680                      28          1,194
+ 0209.02                                     92     1,203          1          180               5        2,455                     45             939
+ 0209.04                                    111     1,481          2          467               0               0                  67          1,228
+ 0216.06                                    299     3,755          4          751               2        1,216                   161           1,896
+ 0218.02                                    253     3,503          7         1,267              7        2,835                   138           2,690
+ 0220.01                                    223     3,041          3          700               7        2,578                   107           1,770
+ 0221.01                                    177     2,094          6          949               1         257                    101           1,144
+ Subtotal for Income Group              1,622      21,289         34         6,112            30       14,923                    880          13,563
+ Middle Income
+ 0201.02                                     34       341          1          101               0               0                  17             215
+ 0202.02                                     84       772          0               0            1         500                      47             390
+ 0203.01                                     88       933          0               0            0               0                  52             558
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   20   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0204.02                                    108     1,854          6          850             19         9,163                     53             690
+ 0206.01                                    502     9,484         31         5,286            14         6,948                   197          4,729
+ 0206.02                                    131     1,322          2          207               0               0                  86             938
+ 0208.03                                    296     4,455         18         3,082              4        2,774                   162          4,014
+ 0208.12                                    167     2,837          3          437               1         444                      88         1,884
+ 0209.05                                    144     2,061          7         1,154              3        2,360                     82         1,663
+ 0211.00                                    148     1,776          4          619               3        1,080                     75             859
+ 0213.06                                    213     2,659          2          244               0               0                137          1,519
+ 0213.21                                     93     1,083          0               0            3        1,197                     56             951
+ 0214.01                                    223     2,771          1          200               5        2,577                   141          2,212
+ 0214.04                                    219     2,643          0               0            1         500                    154          1,650
+ 0215.07                                    413     6,925         16         2,643              9        4,393                   181          3,271
+ 0216.08                                    362     6,811         22         3,712            13         5,605                   156          3,046
+ 0216.13                                    127     1,418          7          989               3        1,568                     75         2,959
+ 0216.14                                    200     2,367          0               0            0               0                115          1,529
+ 0217.04                                    192     2,373          6         1,116              0               0                113          1,577
+ 0217.05                                    110     1,224          4          649               4        1,736                     68         1,261
+ 0217.06                                    142     1,939          6          823               1         750                      81         1,743
+ 0217.07                                    147     1,678          6          885               3        1,548                     89         1,254
+ 0218.03                                     86     1,096          2          334               0               0                  54             640
+ 0218.06                                    156     1,996          7         1,227              5        1,641                     96         2,518
+ 0219.01                                    183     2,300          6          899               3        1,340                   111          2,092
+ 0219.02                                    169     2,229          8         1,282              2         565                      93         1,839
+ 0220.02                                    155     1,947          2          385               1         578                      90         1,153
+ 0220.04                                     56       615          2          348               1         380                      38             500
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   21   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0220.06                                     68       793          0               0            0               0                  43             391
+ 0220.07                                    132     1,821          4          693               2        1,015                     81         1,526
+ 0221.04                                    154     1,681          3          470               1         333                      79             889
+ 0221.06                                    191     2,233          1          198               0               0                121          1,360
+ 0222.01                                    237     2,970          1          124               5        2,079                   143          3,147
+ 0222.06                                    246     3,221          1          249               0               0                145          1,918
+ 0222.08                                    108     1,283          0               0            0               0                  57             750
+ 0222.09                                    109     1,133          0               0            0               0                  77             777
+ Subtotal for Income Group              6,193      85,044        179       29,206            107       51,074                  3,453         58,412
+ Upper Income
+ 0207.03                                    332     4,550          9         1,468              2         591                    189          3,399
+ 0207.04                                    508     7,995         11         1,940              5        3,184                   252          4,766
+ 0207.05                                    175     2,368          5          737               7        2,899                   102          2,568
+ 0207.06                                    377     4,919          9         1,478              3        2,076                   218          3,666
+ 0207.07                                    420     6,537         10         1,300              7        2,509                   206          3,272
+ 0208.05                                    522     7,123         14         2,315            12         6,545                   279          5,928
+ 0208.06                                    131     1,277          1          132               0               0                  77             912
+ 0208.08                                    189     3,423         10         1,682              5        2,748                     77             883
+ 0208.10                                    161     2,456          2          315               2         625                      89         1,103
+ 0208.11                                    182     1,774          1          110               2         918                      98         1,281
+ 0210.00                                    259     3,623          5         1,005              6        2,918                   122          1,339
+ 0212.01                                    267     4,415          9         1,023              2        2,000                   157          2,062
+ 0212.03                                    185     2,786          0               0            1         318                    101          1,464
+ 0212.05                                    174     2,189          2          287               3        1,385                   105          2,559
+ 0212.06                                    137     1,507          2          412               0               0                  89         1,112
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                       PAGE:   22   OF    23
+
+Loans by County                                                                                          MSA: 36740
+Small Business Loans - Originations                                                                      ORLANDO-KISSIMMEE-
+                                                                                                         SANFORD, FL
+                                        Loan Amount at         Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=     Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000            But <= $250,000
+                                       Num of     Amount     Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)     loans       (000s)           loans     (000s)                loans         (000s)
+
+ 0213.07                                    346     5,001          8         1,312              1         500                    193          2,791
+ 0213.11                                    293     4,108          5         1,077              4        1,416                   145          1,434
+ 0213.12                                    159     2,615          3          466               1         420                      84         1,810
+ 0213.13                                    300     4,153          6          806               3        1,564                   175          3,078
+ 0213.14                                    304     4,525          6         1,029              8        4,761                   159          3,301
+ 0213.15                                    144     1,427          3          582               0               0                  82             896
+ 0213.16                                    126     1,345          0               0            1         441                      86             867
+ 0213.17                                    220     3,043          3          405               5        2,118                   136          2,453
+ 0213.18                                    467     6,938          7         1,245              7        3,980                   299          4,678
+ 0213.19                                     28       366          0               0            0               0                  15             155
+ 0213.20                                    174     1,905          3          495               1         770                    112          2,194
+ 0214.03                                    282     3,607          4          658               2         657                    175          1,773
+ 0215.04                                    388     6,842         17         2,512            10         5,119                   165          3,680
+ 0215.05                                    171     2,056          2          297               1         326                    118          1,489
+ 0215.06                                    198     3,223          6         1,011              8        5,445                     92         1,281
+ 0216.04                                    111     1,318          1          151               1         325                      65             991
+ 0216.09                                    106     1,147          0               0            0               0                  58             472
+ 0216.11                                    175     2,154          2          390               2         847                    107          1,947
+ 0216.12                                    231     3,430          2          337               5        2,970                   146          3,393
+ 0216.17                                    239     3,509          5          865               5        1,994                   139          2,281
+ 0217.08                                    273     2,375          3          567               0               0                202          1,586
+ 0218.05                                     64       838          0               0            1         675                      35         1,084
+ 0221.05                                    106       829          1          159               0               0                  73             559
+ 0222.05                                    128     1,143          3          390               1         355                      76             687
+ 0222.07                                    218     3,111          2          330               2        1,082                   131          1,484
+2024 CRA MSA Aggregate Report - Table 1-1                                                                                        PAGE:   23   OF    23
+
+Loans by County                                                                                           MSA: 36740
+Small Business Loans - Originations                                                                       ORLANDO-KISSIMMEE-
+                                                                                                          SANFORD, FL
+                                        Loan Amount at          Loan Amount at             Loan Amount at            Loans to Businesses with Gross
+                                         Origination <=      Origination > $100,000     Origination > $250,000       Annual Revenues <= $1 Million
+      MSA Income Characteristics
+                                           $100,000             But <= $250,000
+                                       Num of     Amount      Num of      Amount           Num of    Amount                Num of        Amount
+                                        loans      (000s)      loans       (000s)           loans     (000s)                loans         (000s)
+
+ Subtotal for Income Group              9,270     127,950         182       29,288            126       64,481                  5,229          82,678
+ Tract Not Known
+ Subtotal for Income Group                  42        367           0               0            0               0                  21             110
+
+
+ County Total                          17,193     236,103         396       64,796            264      130,927                  9,619         156,189
+
+
+ MSA Total                            106,913    1,369,170      2,187      350,688           1,347     701,332                 60,393         919,517
+

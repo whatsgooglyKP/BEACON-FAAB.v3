@@ -1,0 +1,26 @@
+{
+  "name": "beacon-neighborhood-action-desk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 prepare_data.py && vite --host 0.0.0.0 --port 5173",
+    "dev": "npm start",
+    "sync-data": "python3 prepare_data.py",
+    "build": "python3 prepare_data.py && vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 5174",
+    "test": "npm run build && node --test tests/*.test.mjs",
+    "format": "prettier --write src tests vite.config.js"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "vite": "^7.2.0"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.0",
+    "prettier": "^3.9.10"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "model": "Standardized ridge regression",
+  "alpha": 10.0,
+  "seed": 42,
+  "features": [
+    "poverty_pct",
+    "log_median_household_income",
+    "unemployment_pct",
+    "low_access_population_sd_pct_2020",
+    "urban",
+    "lila_sd_half_10"
+  ],
+  "tracts_total": 490,
+  "tracts_modeled": 488,
+  "tracts_excluded": 2,
+  "cv_folds": 5,
+  "cv_r2": 0.5033119972339581,
+  "cv_mae_pp": 5.582646778437773,
+  "baseline_r2": -0.005142848143571799,
+  "baseline_mae_pp": 8.207555058703123,
+  "baseline": "Outer-training-fold mean SNAP rate",
+  "fold_metrics": [
+    {
+      "fold": 0,
+      "train_tracts": 390,
+      "test_tracts": 98,
+      "mae_pp": 4.916790742912373,
+      "r2": 0.6333854982092149,
+      "tolerance_pp": 5.648216263324475
+    },
+    {
+      "fold": 1,
+      "train_tracts": 390,
+      "test_tracts": 98,
+      "mae_pp": 6.303568362643542,
+      "r2": 0.40763995718818036,
+      "tolerance_pp": 5.364280385521963
+    },
+    {
+      "fold": 2,
+      "train_tracts": 390,
+      "test_tracts": 98,
+      "mae_pp": 5.294879207512428,
+      "r2": 0.6128970673420446,
+      "tolerance_pp": 5.571937139483256
+    },
+    {
+      "fold": 3,
+      "train_tracts": 391,
+      "test_tracts": 97,
+      "mae_pp": 5.155083780776787,
+      "r2": 0.5359710701694896,
+      "tolerance_pp": 5.69195628438282
+    },
+    {
+      "fold": 4,
+      "train_tracts": 391,
+      "test_tracts": 97,
+      "mae_pp": 6.245310788263786,
+      "r2": 0.1840877748056139,
+      "tolerance_pp": 5.47402389678677
+    }
+  ],
+  "caveat": "Predicts expected SNAP participation among all households, not eligibility, food need or proven under-enrollment. Correlation is not causation. ACS 01/2020\u201312/2024 five-year estimates; verify with local outreach partners.",
+  "flag_rule": "expected-actual > SNAP 90% MOE + max(5pp, inner-training-OOF MAE); MOE<10pp; MOE/(1.645*actual)<=0.30; actual>0; all predictors present; model beats baseline overall",
+  "versions": {
+    "python": "3.13.5",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1"
+  },
+  "label_counts": {
+    "likely under-enrolled": 4,
+    "unavailable": 2,
+    "uncertain": 484
+  },
+  "input_sha256": "cda498d3d20de1a30c822ada1c501cf3118c0d5e7e016c2fa75f1fb24f54fac3"
+}

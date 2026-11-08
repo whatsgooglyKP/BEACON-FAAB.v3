@@ -1,0 +1,13 @@
+source,geoid,column,original_value,reason,lower_bound,upper_bound,exact_value_known
+snap,12117020703,s2201_c01_034e,"250,000+",topcoded_lower_bound,250000,,False
+snap,12095016756,s2201_c03_034e,"250,000+",topcoded_lower_bound,250000,,False
+snap,12095015801,s2201_c05_034e,"250,000+",topcoded_lower_bound,250000,,False
+snap,12117020703,s2201_c05_034e,"250,000+",topcoded_lower_bound,250000,,False
+income,12117020703,s1901_c01_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12095015801,s1901_c02_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12117020703,s1901_c02_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12095015701,s1901_c03_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12095015801,s1901_c03_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12095016001,s1901_c03_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12095018201,s1901_c03_012e,"250,000+",topcoded_lower_bound,250000,,False
+income,12117020703,s1901_c03_012e,"250,000+",topcoded_lower_bound,250000,,False

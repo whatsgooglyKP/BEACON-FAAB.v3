@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+audit-downloads/
+.DS_Store

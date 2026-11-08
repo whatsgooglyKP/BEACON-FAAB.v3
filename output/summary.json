@@ -1,0 +1,28 @@
+{
+  "core_counties": {
+    "12069": "Lake",
+    "12095": "Orange",
+    "12097": "Osceola",
+    "12117": "Seminole"
+  },
+  "core_tracts": 490,
+  "all_source_columns": 1726,
+  "poverty_q75_pct": 17.025,
+  "lila_sd_count": 118,
+  "lila_dd_count": 157,
+  "high_poverty_lila_candidates": 68,
+  "distance_sensitive_count": 39,
+  "core_incomplete_count": 2,
+  "small_denominator_proxy_count": 2,
+  "high_poverty_moe_count": 372,
+  "high_snap_moe_count": 367,
+  "group_quarters_count": 1,
+  "retailers_core": 1695,
+  "mapping_confidence_counts": {
+    "Low": 192,
+    "High": 182,
+    "Medium": 116
+  },
+  "actual_orlando_neighborhood_assignments": 38,
+  "robust_high_poverty_lila_count": 7
+}
