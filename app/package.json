@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "python3 prepare_data.py && vite --host 0.0.0.0 --port 5173",
+    "start": "node scripts/run-python.mjs prepare_data.py && vite --host 0.0.0.0 --port 5173",
     "dev": "npm start",
-    "sync-data": "python3 prepare_data.py",
-    "build": "python3 prepare_data.py && vite build",
+    "sync-data": "node scripts/run-python.mjs prepare_data.py",
+    "build": "node scripts/run-python.mjs prepare_data.py && vite build",
     "preview": "vite preview --host 0.0.0.0 --port 5174",
     "test": "npm run build && node --test tests/*.test.mjs",
     "format": "prettier --write src tests vite.config.js"

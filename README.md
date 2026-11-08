@@ -11,7 +11,7 @@ place names label actual tract polygons; they are not always official neighborho
 The SNAP comparison is one supporting signal, not a measurement of food need.
 
 ## Run the app
-**New here? Follow [RUN_LOCALLY.md](RUN_LOCALLY.md) for step-by-step local setup on Mac, Windows, or Linux.**
+**New here? Follow [RUN_LOCALLY.md](RUN_LOCALLY.md) for step-by-step setup, with a Windows PowerShell section first.** On Windows PowerShell, the commands below are the same; run `cd app` and then `npm install` and `npm start` on separate lines.
 
 Requires Node.js 20.19+ or 22.12+ (Vite 7), npm, and Python 3.
 Cleaned data and static assets are included; no API key or Python packages are
