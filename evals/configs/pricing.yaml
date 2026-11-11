@@ -1,0 +1,7 @@
+# USD per 1M tokens, paid tier, from https://ai.google.dev/gemini-api/docs/pricing
+# (read 11/11/2026). Output price includes thinking tokens. Cost figures in the
+# report are ESTIMATES from these list prices; the key used may be on a free tier.
+gemini-3-flash-preview: {input: 0.50, output: 3.00}
+gemini-3.1-flash-lite: {input: 0.25, output: 1.50}
+gemini-3.5-flash-lite: {input: 0.30, output: 2.50}
+mock: {input: 0.0, output: 0.0}

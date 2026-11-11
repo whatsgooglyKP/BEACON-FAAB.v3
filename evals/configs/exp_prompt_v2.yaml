@@ -1,0 +1,4 @@
+name: exp_prompt_v2
+base: baseline
+factor: writeup.prompt_version
+override: {writeup: {prompt_version: v2}}

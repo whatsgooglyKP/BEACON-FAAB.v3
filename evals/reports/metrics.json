@@ -1,0 +1,587 @@
+{
+ "live": true,
+ "results": [
+  {
+   "config": "baseline",
+   "factor": null,
+   "config_hash": "658c2951bad6",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12117020901",
+    "12097042902",
+    "12095017019",
+    "12095016406",
+    "12095012402",
+    "12095016504",
+    "12095014812",
+    "12095015104"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Sanford",
+    "Unincorporated Osceola",
+    "Unincorporated Orange",
+    "Unincorporated Orange",
+    "Rosemont",
+    "Union Park",
+    "Florida Center",
+    "Lockhart"
+   ],
+   "shortlist_size": 68,
+   "overlap_at_10": 1.0,
+   "rbo_at_10": 1.0,
+   "robust_share_top10": 0.6,
+   "perturbation": {
+    "passed": 8,
+    "total": 8,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.332221683545213,
+   "stability_top10_jaccard_p05": 0.17647058823529413,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.17416
+    },
+    "Medium": {
+     "n": 93,
+     "mean_flip_rate": 0.17894623655913977
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": {
+    "mode": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "n": 20,
+    "graded": 20,
+    "errors": 0,
+    "retries": 0,
+    "faithful_rate": 1.0,
+    "unsupported_number_rate": 0.0,
+    "wrong_place_rate": 0.0,
+    "confidence_correct_rate": 1.0,
+    "shaky_question_coverage": 0.0,
+    "repeat_identical_text": 1.0,
+    "repeat_same_verdict": 1.0,
+    "latency_p50_s": 2.3903999999999996,
+    "latency_p95_s": 24.42180000000004,
+    "prompt_tokens_mean": 329.9,
+    "output_tokens_mean": 80.6,
+    "thought_tokens_mean": null,
+    "cost_total_usd": 0.0040675,
+    "cost_per_writeup_usd": 0.000203375,
+    "cost_per_faithful_usd": 0.000203375
+   }
+  },
+  {
+   "config": "exp_confidence_margin_aware",
+   "factor": "confidence",
+   "config_hash": "2c4c91f211a6",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12117020901",
+    "12097042902",
+    "12095017019",
+    "12095016406",
+    "12095012402",
+    "12095016504",
+    "12095014812",
+    "12095015104"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Sanford",
+    "Unincorporated Osceola",
+    "Unincorporated Orange",
+    "Unincorporated Orange",
+    "Rosemont",
+    "Union Park",
+    "Florida Center",
+    "Lockhart"
+   ],
+   "shortlist_size": 68,
+   "overlap_at_10": 1.0,
+   "rbo_at_10": 1.0,
+   "robust_share_top10": 0.6,
+   "perturbation": {
+    "passed": 8,
+    "total": 8,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.332221683545213,
+   "stability_top10_jaccard_p05": 0.17647058823529413,
+   "calibration": {
+    "High": {
+     "n": 4,
+     "mean_flip_rate": 0.017
+    },
+    "Medium": {
+     "n": 114,
+     "mean_flip_rate": 0.18357894736842106
+    }
+   },
+   "confidence_label_counts": {
+    "High": 12,
+    "Medium": 476,
+    "Low": 2
+   },
+   "confidence_rule_agreement": null,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": null
+  },
+  {
+   "config": "exp_model_35_flash_lite",
+   "factor": "writeup.model",
+   "config_hash": "0d613002cf00",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12117020901",
+    "12097042902",
+    "12095017019",
+    "12095016406",
+    "12095012402",
+    "12095016504",
+    "12095014812",
+    "12095015104"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Sanford",
+    "Unincorporated Osceola",
+    "Unincorporated Orange",
+    "Unincorporated Orange",
+    "Rosemont",
+    "Union Park",
+    "Florida Center",
+    "Lockhart"
+   ],
+   "shortlist_size": 68,
+   "overlap_at_10": 1.0,
+   "rbo_at_10": 1.0,
+   "robust_share_top10": 0.6,
+   "perturbation": {
+    "passed": 8,
+    "total": 8,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.332221683545213,
+   "stability_top10_jaccard_p05": 0.17647058823529413,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.17416
+    },
+    "Medium": {
+     "n": 93,
+     "mean_flip_rate": 0.17894623655913977
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": {
+    "mode": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "n": 20,
+    "graded": 20,
+    "errors": 0,
+    "retries": 0,
+    "faithful_rate": 1.0,
+    "unsupported_number_rate": 0.0,
+    "wrong_place_rate": 0.0,
+    "confidence_correct_rate": 1.0,
+    "shaky_question_coverage": 0.0,
+    "repeat_identical_text": 0.6,
+    "repeat_same_verdict": 1.0,
+    "latency_p50_s": 1.1983000000000001,
+    "latency_p95_s": 7.210360000000001,
+    "prompt_tokens_mean": 329.9,
+    "output_tokens_mean": 87.5,
+    "thought_tokens_mean": null,
+    "cost_total_usd": 0.0063544,
+    "cost_per_writeup_usd": 0.00031771999999999996,
+    "cost_per_faithful_usd": 0.00031771999999999996
+   }
+  },
+  {
+   "config": "exp_prompt_v2",
+   "factor": "writeup.prompt_version",
+   "config_hash": "359c26ef3d6f",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12117020901",
+    "12097042902",
+    "12095017019",
+    "12095016406",
+    "12095012402",
+    "12095016504",
+    "12095014812",
+    "12095015104"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Sanford",
+    "Unincorporated Osceola",
+    "Unincorporated Orange",
+    "Unincorporated Orange",
+    "Rosemont",
+    "Union Park",
+    "Florida Center",
+    "Lockhart"
+   ],
+   "shortlist_size": 68,
+   "overlap_at_10": 1.0,
+   "rbo_at_10": 1.0,
+   "robust_share_top10": 0.6,
+   "perturbation": {
+    "passed": 8,
+    "total": 8,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.332221683545213,
+   "stability_top10_jaccard_p05": 0.17647058823529413,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.17416
+    },
+    "Medium": {
+     "n": 93,
+     "mean_flip_rate": 0.17894623655913977
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": {
+    "mode": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "n": 20,
+    "graded": 20,
+    "errors": 0,
+    "retries": 0,
+    "faithful_rate": 1.0,
+    "unsupported_number_rate": 0.0,
+    "wrong_place_rate": 0.0,
+    "confidence_correct_rate": 1.0,
+    "shaky_question_coverage": 1.0,
+    "repeat_identical_text": 1.0,
+    "repeat_same_verdict": 1.0,
+    "latency_p50_s": 1.01185,
+    "latency_p95_s": 1.4050200000000004,
+    "prompt_tokens_mean": 477.9,
+    "output_tokens_mean": 84.7,
+    "thought_tokens_mean": null,
+    "cost_total_usd": 0.0049305,
+    "cost_per_writeup_usd": 0.000246525,
+    "cost_per_faithful_usd": 0.000246525
+   }
+  },
+  {
+   "config": "exp_ranking_composite",
+   "factor": "ranking",
+   "config_hash": "80aeb2f705da",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12097042902",
+    "12117020901",
+    "12095016603",
+    "12095017019",
+    "12095016406",
+    "12117021315",
+    "12095016504",
+    "12095012402"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Unincorporated Osceola",
+    "Sanford",
+    "Bithlo",
+    "Unincorporated Orange",
+    "Unincorporated Orange",
+    "Oviedo",
+    "Union Park",
+    "Rosemont"
+   ],
+   "shortlist_size": 68,
+   "overlap_at_10": 0.8,
+   "rbo_at_10": 0.8666906027507437,
+   "robust_share_top10": 0.6,
+   "perturbation": {
+    "passed": 7,
+    "total": 7,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.32883276527394173,
+   "stability_top10_jaccard_p05": 0.17647058823529413,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.17416
+    },
+    "Medium": {
+     "n": 93,
+     "mean_flip_rate": 0.17894623655913977
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": null
+  },
+  {
+   "config": "exp_ranking_conservative",
+   "factor": "ranking",
+   "config_hash": "7707e50ee355",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12117020901",
+    "12097042902",
+    "12095016406",
+    "12095016504",
+    "12095016503"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Sanford",
+    "Unincorporated Osceola",
+    "Unincorporated Orange",
+    "Union Park",
+    "University"
+   ],
+   "shortlist_size": 7,
+   "overlap_at_10": 0.6,
+   "rbo_at_10": 0.8772485319790371,
+   "robust_share_top10": 1.0,
+   "perturbation": {
+    "passed": 7,
+    "total": 7,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.2704144022644023,
+   "stability_top10_jaccard_p05": 0.13333333333333333,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.14144
+    },
+    "Medium": {
+     "n": 93,
+     "mean_flip_rate": 0.12397849462365591
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": null
+  },
+  {
+   "config": "exp_ranking_driving",
+   "factor": "ranking",
+   "config_hash": "24e5cef1750d",
+   "top10": [
+    "12095016510",
+    "12095017703",
+    "12095017600",
+    "12095016907",
+    "12095018300",
+    "12095018700",
+    "12117020901",
+    "12095014502",
+    "12097042902",
+    "12095017019"
+   ],
+   "top10_names": [
+    "University",
+    "Apopka",
+    "Apopka",
+    "Oak Ridge",
+    "Orlando",
+    "Orlando",
+    "Sanford",
+    "Orlando",
+    "Unincorporated Osceola",
+    "Unincorporated Orange"
+   ],
+   "shortlist_size": 97,
+   "overlap_at_10": 0.5,
+   "rbo_at_10": 0.40009742207390253,
+   "robust_share_top10": 0.4,
+   "perturbation": {
+    "passed": 6,
+    "total": 6,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.3803958557782087,
+   "stability_top10_jaccard_p05": 0.25,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.17416
+    },
+    "Medium": {
+     "n": 132,
+     "mean_flip_rate": 0.18336363636363637
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": null
+  },
+  {
+   "config": "exp_temperature_low",
+   "factor": "writeup.temperature",
+   "config_hash": "f68a982e7ac5",
+   "top10": [
+    "12095017703",
+    "12095017600",
+    "12117020901",
+    "12097042902",
+    "12095017019",
+    "12095016406",
+    "12095012402",
+    "12095016504",
+    "12095014812",
+    "12095015104"
+   ],
+   "top10_names": [
+    "Apopka",
+    "Apopka",
+    "Sanford",
+    "Unincorporated Osceola",
+    "Unincorporated Orange",
+    "Unincorporated Orange",
+    "Rosemont",
+    "Union Park",
+    "Florida Center",
+    "Lockhart"
+   ],
+   "shortlist_size": 68,
+   "overlap_at_10": 1.0,
+   "rbo_at_10": 1.0,
+   "robust_share_top10": 0.6,
+   "perturbation": {
+    "passed": 8,
+    "total": 8,
+    "failed": []
+   },
+   "stability_top10_jaccard_mean": 0.332221683545213,
+   "stability_top10_jaccard_p05": 0.17647058823529413,
+   "calibration": {
+    "High": {
+     "n": 25,
+     "mean_flip_rate": 0.17416
+    },
+    "Medium": {
+     "n": 93,
+     "mean_flip_rate": 0.17894623655913977
+    }
+   },
+   "confidence_label_counts": {
+    "High": 43,
+    "Medium": 445,
+    "Low": 2
+   },
+   "confidence_rule_agreement": 1.0,
+   "n_errors": 0,
+   "total_retries": 0,
+   "writeup_stats": {
+    "mode": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "n": 20,
+    "graded": 20,
+    "errors": 0,
+    "retries": 0,
+    "faithful_rate": 1.0,
+    "unsupported_number_rate": 0.0,
+    "wrong_place_rate": 0.0,
+    "confidence_correct_rate": 1.0,
+    "shaky_question_coverage": 0.0,
+    "repeat_identical_text": 1.0,
+    "repeat_same_verdict": 1.0,
+    "latency_p50_s": 0.97245,
+    "latency_p95_s": 2.1353000000000004,
+    "prompt_tokens_mean": 329.9,
+    "output_tokens_mean": 80.3,
+    "thought_tokens_mean": null,
+    "cost_total_usd": 0.0040585,
+    "cost_per_writeup_usd": 0.00020292499999999999,
+    "cost_per_faithful_usd": 0.00020292499999999999
+   }
+  }
+ ],
+ "grader_selfcheck": {
+  "faithful_pool": 80,
+  "mutations": 263,
+  "caught": 263,
+  "by_kind": {
+   "wrong_place": {
+    "caught": 80,
+    "total": 80
+   },
+   "invented_stat": {
+    "caught": 80,
+    "total": 80
+   },
+   "wrong_number": {
+    "caught": 70,
+    "total": 70
+   },
+   "wrong_confidence": {
+    "caught": 33,
+    "total": 33
+   }
+  }
+ },
+ "hand_grade_agreement": {
+  "status": "pending",
+  "instructions": "Mark human_faithful = yes only if every number and place matches facts_json, the evidence confidence label is stated correctly, and nothing is invented. Otherwise no.",
+  "sheet": "to_grade.csv"
+ }
+}

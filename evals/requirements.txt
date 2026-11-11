@@ -1,0 +1,3 @@
+# Evaluation lab only (the app and pipeline have their own requirements).
+PyYAML>=6.0
+requests>=2.31

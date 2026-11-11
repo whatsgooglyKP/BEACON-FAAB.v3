@@ -1,0 +1,4 @@
+name: exp_temperature_low
+base: baseline
+factor: writeup.temperature
+override: {writeup: {temperature: 0.2}}

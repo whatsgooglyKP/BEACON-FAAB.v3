@@ -1,0 +1,4 @@
+name: exp_model_35_flash_lite
+base: baseline
+factor: writeup.model
+override: {writeup: {model: gemini-3.5-flash-lite}}

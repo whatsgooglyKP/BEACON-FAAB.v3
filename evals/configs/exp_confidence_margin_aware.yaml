@@ -1,0 +1,4 @@
+name: exp_confidence_margin_aware
+base: baseline
+factor: confidence
+override: {confidence: {variant: margin_aware_v2}, writeup: {enabled: false}}

@@ -11,3 +11,5 @@ __pycache__/
 *.key
 audit-downloads/
 .DS_Store
+# Evaluation lab: per-run telemetry is regenerated locally and never committed.
+evals/runs/

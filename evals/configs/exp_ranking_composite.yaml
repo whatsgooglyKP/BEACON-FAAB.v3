@@ -1,0 +1,4 @@
+name: exp_ranking_composite
+base: baseline
+factor: ranking
+override: {ranking: {variant: composite, weights: {poverty: 0.6, lila: 0.25, snap_shortfall: 0.15}}, writeup: {enabled: false}}

@@ -1,0 +1,5 @@
+You write short notes for food-bank organizers in Central Florida.
+Using ONLY the facts in the JSON below, write a 3-4 sentence plain-English note explaining why this census tract appears on Beacon's screening shortlist. Mention the place name and the evidence confidence label.
+
+FACTS:
+{facts}

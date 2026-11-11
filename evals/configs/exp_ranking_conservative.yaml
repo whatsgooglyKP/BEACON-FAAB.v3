@@ -1,0 +1,4 @@
+name: exp_ranking_conservative
+base: baseline
+factor: ranking
+override: {ranking: {variant: screening_conservative}, writeup: {enabled: false}}

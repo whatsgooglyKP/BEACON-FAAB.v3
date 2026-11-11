@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="164" font-family="Avenir,Segoe UI,sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="white"/><text x="10" y="22" font-size="15" font-weight="600" fill="#1E343F">Top-10 stability under margin-of-error noise</text>
+<text x="222" y="55" text-anchor="end" fill="#1E343F">baseline</text>
+<rect x="230" y="43" width="113.0" height="17" fill="#F79122" rx="3"/>
+<text x="349.0" y="55" fill="#61747f">0.33</text>
+<text x="222" y="81" text-anchor="end" fill="#1E343F">exp_ranking_composite</text>
+<rect x="230" y="69" width="111.8" height="17" fill="#F79122" rx="3"/>
+<text x="347.8" y="81" fill="#61747f">0.33</text>
+<text x="222" y="107" text-anchor="end" fill="#1E343F">exp_ranking_conservative</text>
+<rect x="230" y="95" width="91.9" height="17" fill="#F79122" rx="3"/>
+<text x="327.9" y="107" fill="#61747f">0.27</text>
+<text x="222" y="133" text-anchor="end" fill="#1E343F">exp_ranking_driving</text>
+<rect x="230" y="121" width="129.3" height="17" fill="#F79122" rx="3"/>
+<text x="365.3" y="133" fill="#61747f">0.38</text>
+</svg>

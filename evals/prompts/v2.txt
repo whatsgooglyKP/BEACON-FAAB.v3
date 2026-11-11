@@ -1,0 +1,13 @@
+You write short notes for food-bank organizers in Central Florida.
+Using ONLY the facts in the JSON below, write a 3-5 sentence plain-English note explaining why this census tract appears on Beacon's screening shortlist.
+
+Rules:
+1. Refer to the area exactly by "place_name" and mention its county.
+2. Give the poverty estimate with its margin of error (for example "31.2% ± 8.1 points").
+3. State the evidence confidence exactly as "<label> evidence confidence".
+4. Do not include any number that is not in the facts. Do not estimate or round to new values.
+5. This is a screening signal, not proof of unmet food need; say so briefly.
+6. For EACH item in "shaky_numbers", end with one short question asking the organizer to verify it (one question per item, each ending with "?"). If "shaky_numbers" is empty, ask no questions.
+
+FACTS:
+{facts}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="164" font-family="Avenir,Segoe UI,sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="white"/><text x="10" y="22" font-size="15" font-weight="600" fill="#1E343F">p95 latency, seconds (live)</text>
+<text x="222" y="55" text-anchor="end" fill="#1E343F">baseline</text>
+<rect x="230" y="43" width="340.0" height="17" fill="#F79122" rx="3"/>
+<text x="576.0" y="55" fill="#61747f">24.42</text>
+<text x="222" y="81" text-anchor="end" fill="#1E343F">exp_model_35_flash_lite</text>
+<rect x="230" y="69" width="100.4" height="17" fill="#F79122" rx="3"/>
+<text x="336.4" y="81" fill="#61747f">7.21</text>
+<text x="222" y="107" text-anchor="end" fill="#1E343F">exp_prompt_v2</text>
+<rect x="230" y="95" width="19.6" height="17" fill="#F79122" rx="3"/>
+<text x="255.6" y="107" fill="#61747f">1.41</text>
+<text x="222" y="133" text-anchor="end" fill="#1E343F">exp_temperature_low</text>
+<rect x="230" y="121" width="29.7" height="17" fill="#F79122" rx="3"/>
+<text x="265.7" y="133" fill="#61747f">2.14</text>
+</svg>
