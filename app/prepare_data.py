@@ -4,7 +4,9 @@ import csv
 import hashlib
 import json
 import re
+import os
 import shutil
+import sys
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parent
@@ -29,7 +31,12 @@ def load_snap_gap(source, geoids):
     # Accept Windows (CRLF) checkouts: compare against both the raw and LF-normalized bytes.
     candidates = {hashlib.sha256(raw).hexdigest(), hashlib.sha256(raw.replace(b"\r\n", b"\n")).hexdigest()}
     if metadata.get("input_sha256") not in candidates:
-        raise ValueError("SNAP model is stale; rerun .venv/bin/python snap_gap_model.py before building the app")
+        message = "SNAP model may be stale (tract_clean.csv hash differs); rerun snap_gap_model.py to refresh it"
+        if os.environ.get("BEACON_STRICT_DATA") == "1":
+            raise ValueError(message)
+        # Fallback: keep the demo running, but say so loudly and mark the data.
+        print("WARNING: " + message + ". Starting anyway with the saved SNAP results.", file=sys.stderr)
+        metadata["stale_warning"] = True
     with (source / "snap_gap.csv").open(newline="") as file:
         rows = [{key: typed(key, value) for key, value in row.items()} for row in csv.DictReader(file)]
     if len(rows) != len(geoids) or {r["geoid"] for r in rows} != geoids:
