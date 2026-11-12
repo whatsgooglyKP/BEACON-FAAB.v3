@@ -1,0 +1,5 @@
+# Keep audited data byte-identical on every OS (the app verifies SHA-256 hashes)
+output/** -text
+*.csv -text
+*.json -text
+*.geojson -text
