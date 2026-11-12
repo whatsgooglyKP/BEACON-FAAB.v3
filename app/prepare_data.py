@@ -25,8 +25,10 @@ def typed(key,value):
 def load_snap_gap(source, geoids):
     """Refuse stale or partial derived outputs, preserving audited tract JSON."""
     metadata = json.loads((source / "snap_gap_metadata.json").read_text())
-    expected = hashlib.sha256((source / "tract_clean.csv").read_bytes()).hexdigest()
-    if metadata.get("input_sha256") != expected:
+    raw = (source / "tract_clean.csv").read_bytes()
+    # Accept Windows (CRLF) checkouts: compare against both the raw and LF-normalized bytes.
+    candidates = {hashlib.sha256(raw).hexdigest(), hashlib.sha256(raw.replace(b"\r\n", b"\n")).hexdigest()}
+    if metadata.get("input_sha256") not in candidates:
         raise ValueError("SNAP model is stale; rerun .venv/bin/python snap_gap_model.py before building the app")
     with (source / "snap_gap.csv").open(newline="") as file:
         rows = [{key: typed(key, value) for key, value in row.items()} for row in csv.DictReader(file)]
@@ -49,7 +51,7 @@ def main():
     for name in ["tracts.geojson","review_report.json","summary.json","run_info.json","input_manifest.json"]:
         shutil.copy2(SOURCE/name,DEST/name)
     logo=ROOT/"public/brand/beacon-white.png"
-    metadata={"sourceSnapshot":"11/2026","dataHash":hashlib.sha256((SOURCE/"tract_clean.csv").read_bytes()).hexdigest(),"brandLogoData":"data:image/png;base64,"+base64.b64encode(logo.read_bytes()).decode(),"sourceFolder":"https://drive.google.com/drive/folders/1zuwSZjkK3gcvEzNFPJ8THFRw9ulCgA-p","appendix":"https://docs.google.com/document/d/1L25DTxI31BlrH3QvB7k8H0rt6eowMiYA3YqHEwfJer0","usdaDocumentation":"https://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/snap-authorized-retailer-access-map-reference-guide"}
+    metadata={"sourceSnapshot":"11/2026","dataHash":hashlib.sha256((SOURCE/"tract_clean.csv").read_bytes().replace(b"\r\n",b"\n")).hexdigest(),"brandLogoData":"data:image/png;base64,"+base64.b64encode(logo.read_bytes()).decode(),"sourceFolder":"https://drive.google.com/drive/folders/1zuwSZjkK3gcvEzNFPJ8THFRw9ulCgA-p","appendix":"https://docs.google.com/document/d/1L25DTxI31BlrH3QvB7k8H0rt6eowMiYA3YqHEwfJer0","usdaDocumentation":"https://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/snap-authorized-retailer-access-map-reference-guide"}
     (DEST/"metadata.json").write_text(json.dumps(metadata))
     print(f"Synced {len(tracts)} audited tracts, boundary geometry, source hashes and latest review report.")
 
