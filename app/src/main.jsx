@@ -1302,7 +1302,14 @@ function App() {
                 >
                   Community flyer / message
                 </button>
-                <button className="export-button" onClick={exportBrief}>
+                <button
+                  className={
+                    summary.decisions.length > 0
+                      ? "export-button export-button-ready"
+                      : "export-button"
+                  }
+                  onClick={exportBrief}
+                >
                   <FileText size={15} /> Create decision brief{" "}
                   <ArrowUpRight size={14} />
                 </button>

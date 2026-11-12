@@ -1243,6 +1243,22 @@ main {
 .export-button svg:first-child {
   margin-right: auto;
 }
+.export-button-ready {
+  background: #f79122;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 550;
+  padding: 12px 16px;
+}
+.export-button-ready:hover {
+  background: #df7d13;
+}
+.export-button-ready svg:first-child,
+.export-button-ready svg:last-child {
+  margin-left: 0;
+  margin-right: 0;
+}
 .page-footer {
   display: flex;
   justify-content: space-between;
